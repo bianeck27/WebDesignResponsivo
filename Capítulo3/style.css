@@ -105,3 +105,12 @@ h1 {
     text-align: center;
     width:100%;
 }
+
+img,
+iframe,
+object,
+embed,
+video {
+    height:auto;
+    max-width: 100%;
+}
